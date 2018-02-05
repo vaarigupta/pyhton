@@ -3,4 +3,3 @@ class Dog(object):
 		print("wuff")
 snowy=Dog()
 snowy.bark()
-snowy.s=1
